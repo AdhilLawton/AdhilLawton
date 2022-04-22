@@ -1,9 +1,9 @@
-**BIO**
+**A Little About Me**
 - 👋 My name is Adhil Lawton
 - 🌱 I am a 23 year old computer science graduate
 - 👀 I’m interested in becoming a FullStack Software developer/ Software Engineer 
 
-**🌱 I’m currently learning **
+**I’m currently learning** 🌱 
   - ReactJS
   - NextJS
   - ExpressJS
@@ -12,7 +12,7 @@
   - Bootstrap
   - SCSS
 
-**Experienced & Skills **
+**Experienced & Skills**
  - JavaScript --> M.E.R.N: MongoDb, ExpressJs, ReactJs, NodeJs.
  - C# --> ASP.NET CORE MVC, ASP.NET CORE REST API
  - Python --> DJANGO MVC, DJANGO REST API, Machine Learning
